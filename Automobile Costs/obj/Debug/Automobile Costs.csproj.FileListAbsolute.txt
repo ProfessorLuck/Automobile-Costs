@@ -1,0 +1,9 @@
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.exe.config
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.exe
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\bin\Debug\Automobile Costs.pdb
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.csprojAssemblyReference.cache
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile_Costs.Form1.resources
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile_Costs.Properties.Resources.resources
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.csproj.GenerateResource.cache
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.exe
+Z:\Downloads\Projects\Automobile Costs\Automobile Costs\obj\Debug\Automobile Costs.pdb
